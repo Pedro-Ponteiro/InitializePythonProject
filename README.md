@@ -1,6 +1,6 @@
 # InitializePythonProject
 
-Powershell script that configures and creates a new base python project for development.
+Powershell script that configures and creates a new base python project for development. (Uses CI_CodeQuality)
 
 ## Installation
 
